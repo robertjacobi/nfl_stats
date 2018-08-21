@@ -1,1 +1,9 @@
-Our project is to determine which play type and what direction to execute an NFL play dependent on what down they are on. We will be examining play data from the regular season of the NFL from 2009-2017 (Kaggle). We will also be looking at the relationship between number of plays ran by play type and determine an average of points per play as well as yards per play in any particular direction they are executed. By the end of the project, we will be able to statistically determine what play type and direction to choose based on what down and amount of yards needed.
+Our project is to analyze NFL regular season play-by-play statistics from 2008-2017 and identify the rate of first down, rate of touchdown, and avg yards per play based on the following criteria:
+
+ - Play Down (1-4)
+ - Play Type (Run/Pass)
+ - Play Direction (Left, Middle, Right)
+
+By the end of the project, we will be able to statistically determine what play type and direction to choose based on what down and amount of yards needed.
+
+Our data was obtained from Kaggle (https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016)
